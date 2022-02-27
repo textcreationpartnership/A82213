@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Presbiterians; concerning His Maiesties Royal Person, and the government of the Church of England. With several propositions touching the Solemn League and Covenant, and the setting up of Bishops.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82213</idno>
+            <idno type="STC">Wing D739</idno>
+            <idno type="STC">Thomason E1040_9</idno>
+            <idno type="STC">ESTC R207899</idno>
+            <idno type="EEBO-CITATION">99866918</idno>
+            <idno type="PROQUEST">99866918</idno>
+            <idno type="VID">119206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119206)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1040[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Presbiterians; concerning His Maiesties Royal Person, and the government of the Church of England. With several propositions touching the Solemn League and Covenant, and the setting up of Bishops.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Dacres,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 21.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119206:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Presbiterians; Concerning His Maieſties Royal Perſon, And the Government of the CHURCH of ENGLAND. WITH Several Propoſitions touching the So<g ref="char:EOLhyphen"/>lemn League and Covenant, and the ſetting up of Biſhops.</p>
+            <p>
+               <hi>LONDON: Printed for</hi> T. Dacres, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119206:2"/>
+            <pb n="1" facs="tcp:119206:2"/>
+            <head>A DECLARATION OF THE Presbyterians, CONCERNING His Majeſties Royal Perſon, and the Government of the Church of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there hath aroſe ſeveral Diſputes touch<g ref="char:EOLhyphen"/>ing the great and weighty Concern of the Diſ<g ref="char:EOLhyphen"/>cipline of the Church of <hi>England,</hi> upon the ſence and ſolution of the Solemn League and Covenant, ſo far as it relates to the Govern<g ref="char:EOLhyphen"/>ment of the Church by Epiſcopacie: And whereas the ſence and very Letter of the Covenant is clear againſt the unjuſt and Anti-chriſtian frame of Government; ſo are they
+<pb n="2" facs="tcp:119206:3"/>not againſt the abſolute extirpation of Prelacie; but it is the abuſe, not the thing; the adjuncts, hot the ſubiect; the defects and exceſſes, not its Fabrick, is covenanted againſt; but that they are willing to become inſtrumental, to cement the ſad differences in the Church; deſiring all ſuch who have adhered thereto to produce thoſe clear, pregnant, and conſtant beams of right reaſon, and true Religion, which ſhineth in the brightneſs and ſtability of Divine and humane Laws, which may be the Pillars of this truth, firm ſupports of duty, ſure bounds of obedience, and ſafe repoſe of Conſcience in this point; greatly darkned by the many diſ<g ref="char:EOLhyphen"/>putes of Biſhops and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſbyters, Papiſts and Proteſtants: nay by the poſſitive aſſertions of both Papiſts and Prote<g ref="char:EOLhyphen"/>ſtant Divines, and determinations of Schoolmen, who have concluded Biſhops and Preſbyters to be Miniſters <hi>ejuſ<g ref="char:EOLhyphen"/>dem ordinis,</hi> equal in Office and Authority, and in this ve<g ref="char:EOLhyphen"/>ry caſe of Government.</p>
+            <p>And we doubt not, but all on the contrary ſhall finde every conſcientious Covenanter enjoy the comfort of his accompliſhed Oath, when <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his place he hath ſeaſonably adviſed, humbly petition<g ref="char:EOLhyphen"/>ed, and lawful<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y endeavoured, to remove Eng<g ref="char:EOLhyphen"/>lands old Hierachy; and to reſtore ſuch an Epiſ<g ref="char:EOLhyphen"/>copacy, to be exerciſed by the Officers of the Church in common and good order, as is neareſt the Scripture, primitive practice and perſwaſion of ſober, grave, pious, and learned men, ſuch as was the late Primate of Armah; but if either his moſt ſacred Majeſty, or any other in Authority fail in the exerciſe of their capacity to effect the ends of the
+<pb n="5" facs="tcp:119206:3"/>Covenant, we hope it ſhall be no offence to mourn for their iniquity, and the iniquity of the Land; nor will it be inconſiſtent to that humble ſubmiſſi<g ref="char:EOLhyphen"/>on, a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ive or p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſive, we confe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s we all owe unto his moſt ſacred Majeſty: what ever ſhall be the e<g ref="char:EOLhyphen"/>ſtabliſhment in the Church (though never ſo cor<g ref="char:EOLhyphen"/>rupt, yet) whileſt conſiſtent with Salvation, though it may occaſion to my ſuffering, and a ſuſ<g ref="char:EOLhyphen"/>pence of my Miniſtry, by Gods grace it ſhall not effect in me, or ſuch on whom I have an influence, Schiſm from the Church, or reſiſtance of his Maje<g ref="char:EOLhyphen"/>ſties juſt Right and Authority; for whom as we have not ſuffered the l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt, ſo if God ſhould ſo farre leave him (which God forbid) we are ready by him to ſuffer the utmoſt, in adherence to the So<g ref="char:EOLhyphen"/>lemn League and Covenant, until it be diſcovered a band of iniquity, a ſnare and gin for Schiſm and Sedition to act by, to the diſhonour of God, and reproach of reformed Religion: Yet we cannot but moſt heartily pray for the honeſt and ingenu<g ref="char:EOLhyphen"/>ous reformation of Epiſcopacy beyond the for<g ref="char:EOLhyphen"/>mer defective or exceſſive conſtitution or execu<g ref="char:EOLhyphen"/>tion of it; which I doubt not will ſatisfie the ex<g ref="char:EOLhyphen"/>pectations of all that Covenanted.</p>
+            <pb n="2" facs="tcp:119206:4"/>
+            <p> We confeſs every conſciencious Covenanter ow<g ref="char:EOLhyphen"/>eth his Juſtice and Duty;</p>
+            <p n="1">1. To God, to approve, love, deſire, and uſe what is good, not being within his own power, and ex<g ref="char:EOLhyphen"/>cluded by his Oath or Covenant; may, and muſt, are things very indifferent.</p>
+            <p n="2">2. To obey the King as chief Governour of Church and State enjoyning things lawful and ho<g ref="char:EOLhyphen"/>neſt (ſo not covenanted againſt) though not the very beſt.</p>
+            <p n="3">3. To pitty the Biſhops and Fathers of the Church who have been there too injurious, or inju<g ref="char:EOLhyphen"/>riouſly uſed, and pull down all proud Prelates, and paternal Authority over Presbyters, which abuſe their Brethren, and debaſe their Miniſtry becauſe in a Black Coat.</p>
+            <p n="4">4. To encourage Miniſters, and endeavour the reſcue of them from dividing Factions, and popu<g ref="char:EOLhyphen"/>lar inſolencies which have befallen them for want of the King, and Eccleſiaſtical Order, but may be enjoyed without a Biſhop advanced in power a<g ref="char:EOLhyphen"/>bove his Brethren.</p>
+            <p n="5">5. Love to the Church, in indeavouring its uni<g ref="char:EOLhyphen"/>ty, peace, and proſperity in the ruine of Prelacy and Eſtabliſhmens of an Epiſcopacy and over-ſight duly conſtituted and carefully executed.</p>
+            <p n="6">
+               <pb n="5" facs="tcp:119206:4"/> 6. Care to his own ſoul, inward and eternall peace, not to be couzened by glones, courted by Rhetorical flouriſhes, no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgelled out of his Co<g ref="char:EOLhyphen"/>venant by moſt bitter ſufferings, but to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leave unto it with care, conſtancy, and diligence, and take heed of all ſophiſtical ſolutions, and ſubtle reconciliati<g ref="char:EOLhyphen"/>ons, which endeavour to baffle the Covenant, and break in pieces the very power of Religious Bonds. And we can not but further declare, That Covenant-breaking is ſo direful a God-provoking ſinne, that we tremble to think of Englands leaſt tendency to it; whatever men fancie to themſelves of the Cove<g ref="char:EOLhyphen"/>nant being the Rock of his late Majeſties ſhip<g ref="char:EOLhyphen"/>wrack, it is viſible that the violation of it hath been the deſtruction of our late Uſurpers, who laid it a<g ref="char:EOLhyphen"/>ſide that they might leap into the Chair of State; and it cannot be denied to have been the chiefe and onely means of his Majeſties moſt juſt and honou<g ref="char:EOLhyphen"/>rable Reſtitution; and an adherencie to it (We doubt not) will prove the eſtabliſhment of his Roy<g ref="char:EOLhyphen"/>all Throne.</p>
+            <p>And to the end, that the Cauſe of the Covenant may be pleaded, We deſire it may be weighed in the ballance of Reaſon and Religion, whileſt we are reſolved to approve our ſelves no leſſe zealous in
+<pb n="6" facs="tcp:119206:5"/>the Religious than he hath appeared in the Politi<g ref="char:EOLhyphen"/>cal or Civil part of the Solemn League and Cove<g ref="char:EOLhyphen"/>nant; and make it his care to giue God the things that are Gods, as Caeſar the things that are Caeſars.</p>
+            <p>And ſo</p>
+            <closer>God ſave the <hi>KING.</hi>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
